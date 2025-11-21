@@ -5,12 +5,12 @@ function App() {
     {
       id: 1,
       url: 'https://www.sciencedirect.com/science/article/abs/pii/S1876382021008027',
-      title: 'Infección por Pseudomonas syringae Pathovar syringae revela diferentes mecanismos de defensa en dos cultivares de cereza dulce'
+      title: 'Fouquieria splendens: A source of phenolic compounds with antioxidant and antiproliferative potential'
     },
     {
       id: 2,
       url: 'https://www.mdpi.com/2223-7747/13/12/1671',
-      title: 'Tesoros Revelados de Solanáceas: Perspectivas Mecanísticas de Fitoquímicos con Potencial Terapéutico para Combatir Enfermedades Humanas'
+      title: 'Antimicrobial and Antibiofilm Potential of Flourensia retinophylla against Staphylococcus aureus'
     }
   ]
 
